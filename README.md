@@ -9,7 +9,7 @@ This portfolio was developed using GatsbyJs. Gatsby is a modern blazing-fast sta
 
 <h1>Getting Started</h1>
 
-      1. git clone https://github.com/oluwajuwon/my-portfolio.git
+      1. git clone https://github.com/oluwajuwon/portfolio.git
       2. cd my-portfolio
       3. npm install
       4. gatsby develop
