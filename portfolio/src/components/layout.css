@@ -1,3 +1,29 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  src: url('../fonts/Poppins-Regular.otf'); 
+}
+
+
+body {font-family: 'Poppins', sans-serif!important; font-size: 0.9rem!important; color: #929798!important;}
+.textcolor1 {color: #20334D!important;}
+.container--toppad {padding-top: 50px;}
+.top__hero__name {font-size: 1rem;}
+.top__hero__text  {font-size: 3rem; color: #20334D }
+.top__hero {height: 100vh; }
+.top__hero--bold {font-weight: 600;}
+.about--bold {font-weight: 600;}
+.top__hero__projectlink {margin-top: 4rem; font-size: 0.8rem;}
+.top__hero__projectlink a{  font-weight: 600;}
+.top__hero__info{ display: flex; justify-content: center;flex-direction: column }
+.bg-grey {background-color: #f7f7f7}
+.bold6 {font-weight: 600;}
+.about {padding: 8rem 0;}
+.portfolio {padding: 4rem 0;}
+.portfolio__big {padding: 3rem 0;}
+
+
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
